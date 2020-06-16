@@ -7,3 +7,4 @@ echo "hello world"
 --fix issue #2
 --try to merge conflict
 --success merge
+--try merge
