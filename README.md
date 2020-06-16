@@ -5,3 +5,4 @@ echo "hello world"
 --add feature-D
 --fix issue #2
 --try to merge conflict
+--try merge
